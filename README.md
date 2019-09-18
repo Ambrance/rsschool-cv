@@ -1,1 +1,1 @@
-# rsschool-cv
+https://ambrance.github.io/rsschool-cv/cv
