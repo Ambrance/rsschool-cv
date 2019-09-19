@@ -11,7 +11,7 @@ vk/telegram/discord **nickname:** Ambrance
 
 ### Summary:
  
-   I'm interested in frontend for about last 3 years. At first it was just a hobby. Now I would like to get my professional skills in this area. I know that it takes from me to study hard, but I'm ready.  
+   I'm interested in frontend for about last 3 years. At first it was just a hobby. Now I would like to get my professional skills in this area. I know that it takes from me to study hard, but I'm ready. My goal is to become front-end JS-developer.
 
 ---
 
