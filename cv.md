@@ -47,6 +47,7 @@ vk/telegram/discord **nickname:** Ambrance
    * UDEMY 
       - [Web Development By Doing: HTML / CSS From Scratch](https://www.udemy.com/certificate/UC-BF9YU88L/)
       - [Master the Basics of HTML5 & CSS3: Beginner Web Development](https://www.udemy.com/certificate/UC-QUXG5IQR/)
+   * The Rolling Scopes School Q12019
 
 ---
  I study English from school to the present. My current english level is A2 (pre intermediate).  
